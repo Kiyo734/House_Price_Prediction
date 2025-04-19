@@ -14,7 +14,7 @@ WEBSITE- https://housez.netlify.app/
 7. HTML/CSS/Javascript for UI
 
 ## License and Copyright
-© Aryan Verma
+© Piyush Shukla
 Licensed under the [MIT License](LICENSE).
 
 ## Credits
